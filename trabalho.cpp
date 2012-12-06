@@ -2,7 +2,7 @@
 #include <cstdlib>
 
 using namespace std;
-
+//B2 É BAITOLÃO
 class tbloco{
     public:
         tmatriz *dir;
